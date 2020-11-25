@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  pch.cpp
+  dllmain.cpp
+  receiveMessage.cpp
+d:\01project\14新奥集团\04测试\com.ejsino.artificialrobot\receivemessage\receivemessage.cpp(54): warning C4477: “swprintf_s”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+d:\01project\14新奥集团\04测试\com.ejsino.artificialrobot\receivemessage\receivemessage.cpp(138): warning C4477: “swprintf_s”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+d:\01project\14新奥集团\04测试\com.ejsino.artificialrobot\receivemessage\receivemessage.cpp(172): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“LPVOID”
+d:\01project\14新奥集团\04测试\com.ejsino.artificialrobot\receivemessage\receivemessage.cpp(172): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 2 拥有了类型“LPVOID”
+d:\01project\14新奥集团\04测试\com.ejsino.artificialrobot\receivemessage\receivemessage.cpp(172): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 3 拥有了类型“LPVOID”
+  正在生成代码
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ReceiveMessage.vcxproj -> D:\01Project\14新奥集团\04测试\Com.Ejsino.ArtificialRobot\\WeChatBotClient\bin\Release\plugin\ReceiveMessage.dll
